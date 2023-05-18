@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to the <a href="https://www.kodingkeun.com">Kodingkeun</a> Corporation!</h1><br>
+<h1 align="center">Welcome to the <a href="https://www.kodingkeun.com">Kodingkeun</a> community!</h1><br>
 
 <p align="center">
   <a href="https://www.kodingkeun.com">
