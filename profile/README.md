@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.kodingkeun.com">
-    <img src="https://kodingkeun.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkodingkeun.bd5030e7.png&w=750&q=75" alt="Kodingkeun logo" height="80">
+    <img src="https://kodingkeun.com/favicon-96x96.png" alt="Kodingkeun logo" height="80">
   </a>
 </p>
 
